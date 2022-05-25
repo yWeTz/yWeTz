@@ -5,7 +5,6 @@ Meu nome é Sidarta, tenho 18 anos atualmente e almejo me tornar um desenvolvedo
 - HTML 5: Importância semântica e Acessibilidade
 - CSS 3: Novas tecnologias para responsividade, posicionamento e excelente experiência de usuário
 - JavaScript: Sintaxe, boas práticas, manipulação de DOM e NodeJS
-- TypeScript (por conta própria): Superset de JavaScript que ajuda a eliminar erros e escrever melhor
 - GitHub: Criação e manutenção de repos, assim como trabalho em equipe
 
 ### 📚 Ainda quero aprender
