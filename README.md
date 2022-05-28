@@ -1,4 +1,4 @@
-### E aí 👋
+### Aooooba! 👋
 Meu nome é Sidarta, tenho 18 anos atualmente e almejo me tornar um desenvolvedor Web full-stack; sempre motivado a aprender. Atualmente estou estudando na Kenzie Academy Brasil, cursando o segundo módulo.
 
 ### 🌱 Atualmente estou aprendendo
