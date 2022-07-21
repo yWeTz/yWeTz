@@ -6,6 +6,8 @@
 - 📫 How to reach me: odssy351@gmail.com or https://www.linkedin.com/in/sidarta-kauã/.
 - ⚡ Curious fact: I'm very calm, so calm that if something bad happened to me, I would probably just look and say "ah.. ok".
 
+##
+
 <div align="center">
   <a href="https://github.com/yWeTz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yWeTz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
