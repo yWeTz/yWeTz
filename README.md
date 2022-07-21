@@ -1,16 +1,6 @@
-### Aooooba! 👋
-Meu nome é Sidarta, tenho 18 anos atualmente e almejo me tornar um desenvolvedor Web full-stack; sempre motivado a aprender. Atualmente estou estudando na Kenzie Academy Brasil, cursando o terceiro módulo.
-
-### 🌱 Atualmente estou aprendendo
-- HTML 5: Importância semântica e Acessibilidade
-- CSS 3: Novas tecnologias para responsividade, posicionamento e excelente experiência de usuário
-- JavaScript: Sintaxe, boas práticas, manipulação de DOM e NodeJS
-- GitHub: Criação e manutenção de repos, assim como trabalho em equipe
-
-### 📚 Ainda quero aprender
-- Front-end: React.js e suas tecnologias
-- Back-end: Express.js e suas tecnologias, assim como Python e Bancos de Dados
-
-### 📫 Como entrar em contato comigo?
-- LinkedIn: https://www.linkedin.com/in/sidarta-kauã/
-- Email: odssy351@gmail.com
+"Aoooba", my name is Sidarta Kauã and here you can find some information about me:
+🔭 I’m currently working on my skills as a Front-end Developer and looking for a new job.
+🎯 I have some fluency in JavaScript, HTML, CSS, GIT. Please, check my repositories.
+🌱 I’m currently learning React.
+📫 How to reach me: odssy351@gmail.com or https://www.linkedin.com/in/sidarta-kauã/.
+⚡ Curious fact: I'm very calm, so calm that if something bad happened to me, I would probably just look and say "ah.. ok".
