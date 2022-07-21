@@ -1,4 +1,4 @@
-### "Aoooba", my name is Sidarta Kauã and here you can find some information about me:
+### 👋 "Aoooba", my name is Sidarta Kauã and here you can find some information about me:
 
 - 🔭 I’m currently working on my skills as a Front-end Developer and looking for a new job.
 - 🎯 I have some fluency in JavaScript, HTML, CSS, GIT. Please, check my repositories.
